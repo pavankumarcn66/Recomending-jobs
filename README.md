@@ -191,17 +191,12 @@ TalentHive utilizes advanced technologies such as OCR and NLP to provide job see
 
 <h1 align="center">Contributors</h1>
 
-- [Rakshit Khajuria](https://github.com/Ryzxxl)
-- [Prikshit Sharma](https://github.com/Prikshit7766)
+- [Pavan kumar C N]
+
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h1 align="center">references</h1>
 
-Here are some resources that helped me while working on this project:
 
-- [My thesis on recommendation systems](https://elibrary.tucl.edu.np/bitstream/123456789/10151/1/Full%20Thesis.pdf)
-- [Personalized book recommendation system research paper](https://www.ijraset.com/research-paper/personalized-book-recommendation-system)
-- [Recommendation system using KNN blog post](https://www.aurigait.com/blog/recommendation-system-using-knn/)
-- [Downloadable paper on recommendation systems](https://core.ac.uk/download/pdf/55305289.pdf)
+

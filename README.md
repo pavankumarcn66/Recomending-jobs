@@ -192,6 +192,8 @@ TalentHive utilizes advanced technologies such as OCR and NLP to provide job see
 <h1 align="center">Contributors</h1>
 
 - [Pavan kumar C N]
+- [Prikshit]
+- 
 
 
 

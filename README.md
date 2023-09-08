@@ -193,7 +193,7 @@ TalentHive utilizes advanced technologies such as OCR and NLP to provide job see
 
 - [Pavan kumar C N]
 - [Prikshit]
-- 
+- [rakshit]
 
 
 
